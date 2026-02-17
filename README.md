@@ -1,5 +1,5 @@
-# 💫 About Me:
-AI-powered gesture-controlled web applications using MediaPipe & TensorFlow.js<br>Innovative full-stack web applications<br><br>Advanced Machine Learning & Deep Learning, System design and scalable architectures<br>JavaScript, Python, AI/ML basics<br>
+# About Me:
+Passionate Computer Science student skilled in software development, AI, and data-driven solutions with hands-on project experience in real-world applications.
 
 
 ## 🌐 Socials:
