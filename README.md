@@ -94,12 +94,23 @@ yuvaraj = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yuviii21&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
 
+  <img
+    src="https://img.shields.io/github/followers/yuviii21?style=for-the-badge&logo=github&label=Followers"
+    alt="Followers"
+  />
+
+  <img
+    src="https://img.shields.io/github/stars/yuviii21?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars"
+    alt="Stars"
+  />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=yuviii21&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
+
+</p>
 # 🔥 GitHub Streak
 
 <p align="center">
