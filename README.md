@@ -130,11 +130,6 @@ yuvaraj = {
     alt="Yuvaraj's Contribution Graph"
   />
 </p>
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuviii21&hide_border=true" />
-</p>
 
 ---
 
