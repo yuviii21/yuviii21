@@ -94,11 +94,17 @@ yuvaraj = {
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yuviii21&show_icons=true&hide_border=true&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yuviii21&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Yuvaraj's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuviii21&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuviii21&layout=compact&theme=github_dark&hide_border=true"
+    alt="Yuvaraj's Top Languages"
+  />
 </p>
 
 ---
@@ -106,11 +112,22 @@ yuvaraj = {
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yuviii21&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=yuviii21&theme=github-dark-blue&hide_border=true"
+    alt="Yuvaraj's GitHub Streak"
+  />
 </p>
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yuviii21&theme=github-compact&hide_border=true"
+    alt="Yuvaraj's Contribution Graph"
+  />
+</p>
 # 📈 Contribution Graph
 
 <p align="center">
