@@ -91,23 +91,14 @@ yuvaraj = {
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=yuviii21&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Yuvaraj's GitHub Stats"
+    alt="GitHub Stats"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuviii21&layout=compact&theme=github_dark&hide_border=true"
-    alt="Yuvaraj's Top Languages"
-  />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
