@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi there, I'm G Yuvaraj 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+G+Yuvaraj+%F0%9F%91%8B" alt="Typing SVG" />
+
 ### Full Stack Developer | Building at the intersection of Web & AI | Open to SDE Opportunities 🚀
 
 </div>
@@ -90,6 +91,15 @@ Full-stack food delivery web app — browse restaurants, filter by cuisine, mana
 </td>
 </tr>
 </table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuviii21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuviii21&theme=tokyonight&hide_border=true" width="48%">
+</p>
 
 ---
 
